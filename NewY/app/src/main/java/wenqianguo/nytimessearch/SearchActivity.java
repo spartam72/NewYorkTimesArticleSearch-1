@@ -1,4 +1,4 @@
-package wenqianguo.nytimessearch.Activities;
+package wenqianguo.nytimessearch;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -24,6 +24,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 
 import cz.msebera.android.httpclient.Header;
+import wenqianguo.nytimessearch.Activities.ArticleActivity;
 import wenqianguo.nytimessearch.Article;
 import wenqianguo.nytimessearch.ArticleArrayAdapter;
 import wenqianguo.nytimessearch.R;
